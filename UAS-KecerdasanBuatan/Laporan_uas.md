@@ -489,6 +489,11 @@ Visualisasi dilakukan menggunakan kode berikut.
 df.hist(figsize=(15,10))
 plt.show()
 ```
+plt.figure(figsize=(12,8))
+df.hist(figsize=(12,8))
+plt.tight_layout()
+plt.savefig("images/histogram.png", dpi=300)
+plt.show()
 
 Histogram memberikan gambaran mengenai:
 
