@@ -97,7 +97,7 @@ Library Python yang digunakan:
 │   └── dataset_cuaca_garut_5000.csv
 ├── uas_model.ipynb
 ├── README.md
-└── requirements.txt
+└── laporan_uas.md
 ```
 
 ## Cara Menjalankan Program
