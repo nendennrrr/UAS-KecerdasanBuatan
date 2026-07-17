@@ -489,12 +489,15 @@ Visualisasi dilakukan menggunakan kode berikut.
 df.hist(figsize=(15,10))
 plt.show()
 ```
-plt.figure(figsize=(12,8))
-df.hist(figsize=(12,8))
-plt.tight_layout()
-plt.savefig("images/histogram.png", dpi=300)
-plt.show()
+## Distribusi Variabel Menggunakan Histogram
 
+Histogram digunakan untuk melihat persebaran data pada setiap fitur numerik.
+
+![Histogram Dataset](images/histogram.png)
+
+**Gambar 4.1** Histogram distribusi seluruh fitur numerik.
+
+Berdasarkan Gambar 4.1 terlihat bahwa variabel suhu memiliki distribusi yang mendekati normal, sedangkan Curah_Hujan_mm memiliki distribusi yang cenderung right-skewed.
 Histogram memberikan gambaran mengenai:
 
 - Persebaran data
