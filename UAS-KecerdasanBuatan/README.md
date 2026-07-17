@@ -237,7 +237,7 @@ Seluruh library digunakan untuk proses pengolahan data, visualisasi, pelatihan m
 │   └── dataset_cuaca_garut_5000.csv
 ├── uas_model.ipynb
 ├── README.md
-└── laporan_uas.md
+└── Laporan_uas.md
 ```
 
 Keterangan:
