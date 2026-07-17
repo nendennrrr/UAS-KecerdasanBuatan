@@ -41,13 +41,18 @@ Selain memberikan kontribusi dalam pengembangan model prediksi cuaca, penelitian
 
 ---
 
-## Referensi
+# Referensi
 
-Alzahrani, A., Alghamdi, A., Alghamdi, A., & Alshamrani, A. (2022). *Deterministic Weather Forecasting Models Based on Intelligent Predictors: A Survey*. Journal of King Saud University – Computer and Information Sciences.
+1. Alzahrani, A., Alghamdi, A., Alghamdi, A., & Alshamrani, A. (2022). *Deterministic Weather Forecasting Models Based on Intelligent Predictors: A Survey*. Journal of King Saud University – Computer and Information Sciences.
 
-Bauer, P., Dueben, P. D., Hoefler, T., et al. (2022). *ESA-ECMWF Report on Recent Progress and Research Directions in Machine Learning for Earth System Observation and Prediction*. npj Climate and Atmospheric Science.
+2. Bauer, P., Dueben, P. D., Hoefler, T., et al. (2022). *ESA-ECMWF Report on Recent Progress and Research Directions in Machine Learning for Earth System Observation and Prediction*. npj Climate and Atmospheric Science, 5(59).
 
-Sharma, P., Kumar, R., & Singh, A. (2024). *Comparative Analysis of Weather Prediction Using Classification Algorithm*. International Journal of Research Publication and Reviews.
+3. Sharma, P., Kumar, R., & Singh, A. (2024). *Comparative Analysis of Weather Prediction Using Classification Algorithm: Random Forest Classifier, Decision Tree Classifier and Extra Tree Classifier*. International Journal of Research Publication and Reviews.
+
+4. Sari, R., Pratama, A., & Nugroho, D. (2023). *Implementasi Algoritma K-Nearest Neighbor untuk Klasifikasi Cuaca*. Jurnal Algoritme.
+
+5. Pedregosa, F., et al. (2011). *Scikit-learn: Machine Learning in Python*. Journal of Machine Learning Research, 12, 2825–2830.
+
 
 # Business Understanding
 
