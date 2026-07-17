@@ -344,10 +344,16 @@ Secara keseluruhan, penelitian ini membuktikan bahwa pendekatan Machine Learning
 
 # Penulis
 
-**Nenden Nurdianti**
-**NIM:** 2406113
-Program Studi Teknik Informatika
-Institut Teknologi Garut
+**Nama :** Nenden Nurdianti
+
+**NIM :** 2406113
+
+**Program Studi :** Teknik Informatika
+
+**Mata Kuliah :** Kecerdasan Buatan
+
+**Institut Teknologi Garut**
+
 
 ---
 
